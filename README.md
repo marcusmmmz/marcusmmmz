@@ -26,7 +26,7 @@ I don't have one yet ¯\\_(ツ)\_/¯
 
 ### Both front-end and back-end
 [![TypeScript](https://img.shields.io/badge/TYPESCRIPT-323330?style=for-the-badge&logo=typescript)](https://typescriptlang.org)
-[![Socket.io](https://img.shields.io/badge/FIRESTORE-323330?style=for-the-badge&logo=socket.io)](https://socket.io/)
+[![Socket.io](https://img.shields.io/badge/SOCKET-IO-323330?style=for-the-badge&logo=socket.io)](https://socket.io/)
 
 ### Database
 [![Firestore](https://img.shields.io/badge/FIRESTORE-323330?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
