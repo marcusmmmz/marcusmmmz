@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-I'm Marcus, a Brazilian 15 year old fullstack web dev (and game dev when i feel like it) that likes to reinvent the wheel sometimes.
+I'm Marcus, a Brazilian fullstack web dev (and game dev when i feel like it) that likes to reinvent the wheel sometimes.
 
 ### My portfolio
 I don't have one yet ¯\_(ツ)\_/¯
