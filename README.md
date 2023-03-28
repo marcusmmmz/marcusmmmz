@@ -1,14 +1,15 @@
 
 ## Hi there 👋
 
-I'm Marcus, a Brazilian fullstack web dev (and game dev when i feel like it) that likes to reinvent the wheel sometimes.
+I'm Marcus, a fullstack web dev (and game dev when i feel like it) that likes to reinvent the wheel sometimes.
 
 ### My portfolio
 I don't have one yet ¯\_(ツ)\_/¯
 
 ### What have i been learning lately?
-- Rust (for no particular reason)
-- User Auth
+- P2P (WebRTC)
+- Nostr protocol
+- Rust
 
 ### My top languages ⚡
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcusmmmz&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
