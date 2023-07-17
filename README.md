@@ -3,7 +3,7 @@
 I'm Marcus, a fullstack web dev (and game dev when i feel like it) that likes to reinvent the wheel sometimes.
 
 ### My portfolio
-https://portfolio-marcusmmmz.vercel.app/
+https://portfolio-marcusmmmz.vercel.app/about
 
 ### What have i been learning lately?
 - Compilers (creating a programming language)
