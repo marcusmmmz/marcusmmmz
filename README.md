@@ -1,14 +1,11 @@
 ## Hi there 👋
 
-I'm Marcus, a fullstack web dev (and game dev when i feel like it) that likes to reinvent the wheel sometimes.
-
-### My portfolio
-https://portfolio-marcusmmmz.vercel.app/about
+I'm Marcus, a fullstack web dev (though I also like tinkering with game dev, compilers and whatnot) that likes to reinvent the wheel sometimes.
 
 ### What have i been learning lately?
-- Compilers (creating a programming language)
-- P2P (mostly WebRTC)
-- Nostr protocol
+- Software architecture
+- Writing game engines
+- Networking (mostly P2P stuff such as pkdns, DHTs, etc)
 
 ### My top languages ⚡
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcusmmmz&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
@@ -16,9 +13,10 @@ https://portfolio-marcusmmmz.vercel.app/about
 ## My Skills 🚀
 
 ### Languages
-[![Javascript](https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript)](https://typescriptlang.org)
-[![TypeScript](https://img.shields.io/badge/TYPESCRIPT-323330?style=for-the-badge&logo=typescript)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![Javascript](https://img.shields.io/badge/JAVASCRIPT-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178c6?style=for-the-badge&logo=typescript&logoColor=black)](https://typescriptlang.org)
 [![Rust](https://img.shields.io/badge/RUST-323330?style=for-the-badge&logo=rust)](https://www.rust-lang.org/)
+[![Golang](https://img.shields.io/badge/GOLANG-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
 
 ### Front-end
 [![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/standards/webdesign/htmlcss.html)
